@@ -1,6 +1,6 @@
 # practicing-ai-chat-bot
 A chat bot i built practicing my python skills = it's rule based
-# 🚀 Python Chatbot Project Setup
+# Python Chatbot Project Setup
 
 Welcome! This guide will help you set up everything you need before we start building our Python chatbot.
 
