@@ -202,3 +202,4 @@ time_of_the_day = input("What time of the day is it?: ")
 # step 5 --> Greet with all data provided 
 print(f"Yeah! Hey {name}, Good {time_of_the_day}. It's nice to have you in here.")
 `
+Wednesday 22 2026
